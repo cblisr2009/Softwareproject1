@@ -2,7 +2,6 @@
  Group project 
 
 #include "dotdatabase.hpp"
-#include <tinyxml2.cpp>
 #include <tinyxml2.h>
 #include <string>
 #include <vector>
